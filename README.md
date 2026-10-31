@@ -1,4 +1,4 @@
-# Zaritech Embedded Systems Academy & Fundamental Robotics Suite 🎓⚙️
+# Zaritech Embedded Systems Academy & Fundamental Robotics Suite ⚙️
 
 Welcome to the central open-source repository for the **Zaritech Academic Robotics & Embedded Infrastructure** — a multi-tier fundamental learning and prototyping ecosystem engineered by **Zaritech Academy** (A division of **Zaritech Dynamics**).
 
@@ -11,8 +11,8 @@ This repository acts as a structured curriculum. Below is the master tracking ma
 
 | Kit ID | Academic Suite Name | Core Processing Architecture | Primary Learning Focus | Link to Infrastructure |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | *Deploying soon...* | ATmega328P / Arduino Core | Fundamental GPIO Control & Digital Logic | *In Production Pipeline* |
-| **02** | *Deploying soon...* | Sensors & Actuators Matrix | Analog Signal Parsing & PWM Mechanics | *In Production Pipeline* |
+| **01** | Zaritech Arduino Foundation Starter Kit | SMD | Fundamental GPIO Control, Current-Limiting & Digital Sequences | [View Kit 01 Specifications](./kits/01-arduino-foundation-starter-kit/) |
+
 
 *Note: This repository is actively scaling to encapsulate all entry-level and intermediate robotics training frameworks curated by Zaritech Labs.*
 
