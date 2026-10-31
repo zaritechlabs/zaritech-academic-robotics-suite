@@ -15,6 +15,8 @@ This repository acts as a structured curriculum. Below is the master tracking ma
 | **02** | Zaritech Capacitive Touch RGB Atmosphere Set | ATmega328P SMD (8-Bit) | Solid-State HMI Switching, PWM Color Spectrums & Prototyping | [View Kit 02 Specifications](./kits/02-capacitive-touch-rgb-atmosphere/) |
 | **03** | Zaritech Mini Elektronik Temel Seti | ATmega328P SMD (8-Bit) Reference | Mechanical Input Arrays, Pull-Down Resistive Loops & Signal Paths | [View Kit 03 Specifications](./kits/03-arduino-mini-switching-resistors/) |
 | **04** | Zaritech Otonom Uyarı Seti | ATmega328P SMD (8-Bit) Reference | Capacitive Proximity Nodes, Acoustic Strobe Routing & Interlocks | [View Kit 04 Specifications](./kits/04-capacitive-touch-acoustic-alarm/) |
+| **05** | Zaritech Analog Yön Kontrol Seti | ATmega328P SMD (8-Bit) Reference | Proportional Voltage Division, Dual-Axis Tracking & Vektörel HMI Panels | [View Kit 05 Specifications](./kits/05-analog-joystick-vector-mapping/) |
+
 
 
 
