@@ -17,6 +17,8 @@ This repository acts as a structured curriculum. Below is the master tracking ma
 | **04** | Zaritech Otonom Uyarı Seti | ATmega328P SMD (8-Bit) Reference | Capacitive Proximity Nodes, Acoustic Strobe Routing & Interlocks | [View Kit 04 Specifications](./kits/04-capacitive-touch-acoustic-alarm/) |
 | **05** | Zaritech Analog Yön Kontrol Seti | ATmega328P SMD (8-Bit) Reference | Proportional Voltage Division, Dual-Axis Tracking & Vektörel HMI Panels | [View Kit 05 Specifications](./kits/05-analog-joystick-vector-mapping/) |
 | **06** | Zaritech Lazer Güvenlik Ağı Seti | ATmega328P SMD (8-Bit) Reference | Optical Laser Transmission, Photo-Resistive Dividers & Auditory Strobes | [View Kit 06 Specifications](./kits/06-optical-laser-perimeter-defense/) |
+| **07** | Zaritech 5V Röle Modülü Otomasyon Seti | ATmega328P SMD (8-Bit) Reference | Electromagnetic Relay Actuation, Galvanic Isolation & State Latching | [View Kit 07 Specifications](./kits/07-isolated-relay-power-automation/) |
+
 
 
 
