@@ -2,15 +2,15 @@
 
 Welcome to the official repository for the **Zaritech Arduino Foundation Starter Kit** — a premium, developer-centric embedded hardware learning substrate engineered by **Zaritech Academy** (A division of **Zaritech Dynamics**).
 
-### ⚙️ Educational Paradigm: High-Reliability DIP Architecture
-Unlike budget learning setups that utilize fragile surface-mount (SMD) microcontrollers prone to permanent thermal and electrical damage, this academy suite leverages a high-quality, socketed **ATmega328P DIP (Dual In-line Package)** architecture. If an input pin experiences an over-voltage event during student experimentation, the processing core can be easily extracted and replaced, serving as an industrial-grade validation and learning platform for academic environments.
+### ⚙️ Educational Paradigm: Modern Low-Profile SMD Architecture
+This academy suite leverages a high-quality **SMD (Surface Mount Device) ATmega328P** microcontroller footprint. Unlike bulkier legacy layouts, modern high-density industrial electronics operate almost exclusively on SMD architectures. By learning on an SMD-driven processing core, students and makers gain immediate familiarity with commercial-grade PCB layout standards, benefit from lower parasitic line capacitance, and ensure high resistance to mechanical shock and vibration during experimental field testing.
 
 ---
 
 ## 🛠️ Hardware & Topology Specs
 Our foundational embedded engineering suite is optimized for clean logic paths, passive current-limiting validation, and solderless circuit prototyping:
 
-*   **Core Processing Unit:** Arduino Uno R3 development engine powered by the rugged, field-replaceable 8-bit ATmega328P DIP microcontroller.
+*   **Core Processing Unit:** Arduino Uno R3 development engine powered by the rugged, low-profile 8-bit ATmega328P SMD microcontroller.
 *   **Visual Logic Indicator String:** 5x Premium Diffused Status LEDs (Multi-color configuration including Green, Yellow, and Blue arrays) for physical GPIO state tracing.
 *   **Passive Protection Matrix:** 5x Precision **220 Ohm Resistors** strategically matched to ensure correct current-limiting drop voltages and protect the LED anodes from over-current failure modes.
 *   **Prototyping Substrate:** 1x Premium High-Durability Large Breadboard (830 Tie-Points Layout) featuring integrated continuous power rails.
