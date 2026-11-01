@@ -1,0 +1,27 @@
+====================================================================
+ Project: Zaritech Electromechanical Flow Actuation & Pure Logic Substrate
+ Subsystem: Kit 14 - Hardware Circuit Mapping Path (No Compiler Binary Required)
+ Hardware: High-RPM DC Motor, Propeller, 1-Channel Relay, 18650 Cell Dock, Button
+ Maintainer: Zaritech Academy (A division of Zaritech Dynamics)
+====================================================================
+
+[ELECTROMECHANICAL WIRING DIAGRAM TRACK]
+
+ 1. POWER SUPPLY HARDWIRING:
+    - 18650 Battery Holder POSITIVE (+) Wire ---> Breadboard VCC Rail (+5V)
+    - 18650 Battery Holder NEGATIVE (-) Wire ---> Breadboard GND Rail (0V)
+
+ 2. COIL CONTROL INTERLOCK CIRCUIT:
+    - Relay Module VCC  ---> Breadboard VCC Rail
+    - Relay Module GND  ---> Breadboard GND Rail
+    - Tact Button Pin 1A ---> Breadboard VCC Rail
+    - Tact Button Pin 1B ---> Relay Module INPUT (IN) Pin
+    * Note: Pressing the button routes current to open/close the inductive core.
+
+ 3. INDUCTIVE MOTOR DRIVE CIRCUIT:
+    - Breadboard VCC Rail ---> Relay Module COMMON (COM) Terminal
+    - Relay Module NORMALLY OPEN (NO) Terminal ---> DC Motor Terminal A (+)
+    - DC Motor Terminal B (-) ---> Breadboard GND Rail
+
+====================================================================
+Status: Verified under Zaritech Dynamics Structural Circuit Regulations.
