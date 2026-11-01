@@ -21,6 +21,8 @@ This repository acts as a structured curriculum. Below is the master tracking ma
 | **08** | Zaritech Joystick Modülü Kontrol Seti | ATmega328P SMD (8-Bit) Reference | Proportional Kinematic Steering, Dual-Axis Voltages & Override Buffers | [View Kit 08 Specifications](./kits/08-kinematic-joystick-steering-array/) |
 | **09** | Zaritech Kızılötesi Hız Sensörü Seti | ATmega328P SMD (8-Bit) Reference | Infrared Slotted Emitters, Asynchronous Edge Interrupts & Tachometry | [View Kit 09 Specifications](./kits/09-infrared-slotted-velocity-encoder/) |
 | **10** | Zaritech Gelişmiş Arduino Geliştirme Kompleksi | ATmega328P Dual-MCU (Uno/Nano) | Dedicated Sensor Backplanes, SVG Triple-Lane Rails & Galvanic Actuation | [View Kit 10 Specifications](./kits/10-dual-mcu-sensor-shield-infrastructure/) |
+| **11** | Zaritech Özel Geliştirme Seti (OLED & Radar) | ATmega328P SMD (8-Bit) Reference | Graphic Frame-Buffering, Time-of-Flight Telemetry & Proximity Radar | [View Kit 11 Specifications](./kits/11-spatial-proximity-oled-ui-substrate/) |
+
 
 
 
