@@ -1,0 +1,29 @@
+name: Zaritech Academy Firmware Verification
+
+on: [push, pull_request]
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Arduino CLI
+        uses: arduino/setup-arduino-cli@v1
+
+      - name: Install Arduino AVR Core Board
+        run: |
+          # Resmî Arduino AVR (Uno/Nano) çekirdek kütüphaneleri optimize adresten kurulur
+          arduino-cli core update-index
+          arduino-cli core install arduino:avr
+
+      - name: Compile All Academic Firmware Files
+        run: |
+          # kits/ altındaki tüm temel eğitim .ino kodlarını otomatik bulup test eder
+          for file in $(find kits/ -name "*.ino"); do
+            echo "--------------------------------------------------"
+            echo "[ZARITECH ACADEMY CI] Compiling firmware: $file"
+            echo "--------------------------------------------------"
+            arduino-cli compile --fqbn arduino:avr "$file"
+          done
