@@ -22,6 +22,11 @@ This repository acts as a structured curriculum. Below is the master tracking ma
 | **09** | Zaritech Kızılötesi Hız Sensörü Seti | ATmega328P SMD (8-Bit) Reference | Infrared Slotted Emitters, Asynchronous Edge Interrupts & Tachometry | [View Kit 09 Specifications](./kits/09-infrared-slotted-velocity-encoder/) |
 | **10** | Zaritech Gelişmiş Arduino Geliştirme Kompleksi | ATmega328P Dual-MCU (Uno/Nano) | Dedicated Sensor Backplanes, SVG Triple-Lane Rails & Galvanic Actuation | [View Kit 10 Specifications](./kits/10-dual-mcu-sensor-shield-infrastructure/) |
 | **11** | Zaritech Özel Geliştirme Seti (OLED & Radar) | ATmega328P SMD (8-Bit) Reference | Graphic Frame-Buffering, Time-of-Flight Telemetry & Proximity Radar | [View Kit 11 Specifications](./kits/11-spatial-proximity-oled-ui-substrate/) |
+| **12** | Zaritech Arduino Nano Tabanlı Mesafe Seti | ATmega328P Micro-MCU (Nano V3) | Micro Form-Factors, Time-of-Flight Sonic Telemetry & Adaptive Acoustic Radar | [View Kit 12 Specifications](./kits/01-arduino-foundation-starter-kit/) |
+| **13** | Zaritech 5 Temel Sensör Modül Seti | Multi-Platform Compatible | Heterogeneous Input Strips, Cross-Domain Telemetry & Diagnostic Chimes | [View Kit 13 Specifications](./kits/13-heterogeneous-sensor-fusion-diagnostic-suite/) |
+| **14** | Zaritech DC Motorlu Pervane Otomasyon Seti | Hardware-Only Logic (No MCU) | Pure Hardware Control, Inductive Motor Drive & Latch Paths | [View Kit 14 Specifications](./kits/14-electromechanical-flow-actuation-substrate/) |
+| **15** | Zaritech Akıllı Menü ve Gösterge Seti | ATmega328P SMD (8-Bit) Reference | Asynchronous Segment Multiplexing, Quadrature HMI Loops & Solid-State Input Matrices | [View Kit 15 Specifications](./kits/15-arduino-hmi-menu-segment-display/) |
+
 
 
 
